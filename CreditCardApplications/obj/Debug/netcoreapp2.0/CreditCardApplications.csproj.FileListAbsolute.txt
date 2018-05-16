@@ -1,0 +1,11 @@
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.deps.json
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.json
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.dev.json
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csprojResolveAssemblyReference.cache
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfo.cs
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.pdb

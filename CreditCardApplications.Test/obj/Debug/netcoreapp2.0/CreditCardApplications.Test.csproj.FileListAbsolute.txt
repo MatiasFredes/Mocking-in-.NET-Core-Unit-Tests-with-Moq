@@ -1,0 +1,16 @@
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.Test.deps.json
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.Test.runtimeconfig.json
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.Test.runtimeconfig.dev.json
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.Test.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.Test.pdb
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\bin\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\obj\Debug\netcoreapp2.0\CreditCardApplications.Test.csprojResolveAssemblyReference.cache
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\obj\Debug\netcoreapp2.0\CreditCardApplications.Test.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\obj\Debug\netcoreapp2.0\CreditCardApplications.Test.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\obj\Debug\netcoreapp2.0\CreditCardApplications.Test.AssemblyInfo.cs
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\obj\Debug\netcoreapp2.0\CreditCardApplications.Test.dll
+C:\Users\Matias\Documents\Frameworks\moq-dot-net-core-unit-tests\02\demos\before\01AddTestProject\CreditCardApplications.Test\obj\Debug\netcoreapp2.0\CreditCardApplications.Test.pdb
